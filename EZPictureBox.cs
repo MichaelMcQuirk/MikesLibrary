@@ -11,7 +11,7 @@ namespace MikesLibrary
     public class EZPictureBox : PictureBox
     {
         private static int EZPictureBox_Count = 0;
-        private Graphics graphics;
+        private Graphics graphics = null;
         
         public EZPictureBox()
             :base()
