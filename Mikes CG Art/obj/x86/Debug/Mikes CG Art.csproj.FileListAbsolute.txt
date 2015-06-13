@@ -1,0 +1,12 @@
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\bin\Debug\Mikes CG Art.exe
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\bin\Debug\Mikes CG Art.pdb
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\bin\Debug\MikesLibrary.dll
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\bin\Debug\MikesLibrary.pdb
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes CG Art.csprojResolveAssemblyReference.cache
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes_CG_Art.Form1.resources
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes_CG_Art.Properties.Resources.resources
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes CG Art.csproj.GenerateResource.Cache
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes CG Art.exe
+z:\users\s2122_000\documents\visual studio 2010\Projects\Mikes CG Art\obj\x86\Debug\Mikes CG Art.pdb
+Z:\Users\s2122_000\Documents\Visual Studio 2010\Projects\MikesLibrary\Mikes CG Art\obj\x86\Debug\Mikes CG Art.exe
+Z:\Users\s2122_000\Documents\Visual Studio 2010\Projects\MikesLibrary\Mikes CG Art\obj\x86\Debug\Mikes CG Art.pdb
