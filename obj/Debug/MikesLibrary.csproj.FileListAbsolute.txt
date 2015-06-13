@@ -1,0 +1,4 @@
+z:\users\s2122_000\documents\visual studio 2010\Projects\MikesLibrary\bin\Debug\MikesLibrary.dll
+z:\users\s2122_000\documents\visual studio 2010\Projects\MikesLibrary\bin\Debug\MikesLibrary.pdb
+z:\users\s2122_000\documents\visual studio 2010\Projects\MikesLibrary\obj\Debug\MikesLibrary.dll
+z:\users\s2122_000\documents\visual studio 2010\Projects\MikesLibrary\obj\Debug\MikesLibrary.pdb
